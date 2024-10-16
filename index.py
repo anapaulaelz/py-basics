@@ -1,3 +1,5 @@
 name = "Ana Paula"
 
-print(name)
+city = "Mexico"
+
+print(f"{name} is from {city}")
